@@ -23,4 +23,5 @@ table td:last-child{
 table tbody:last-of-type tr:nth-of-type(5) td:last-child{
 	text-decoration: underline;
 }
+
 /* Table CSS */
