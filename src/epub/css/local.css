@@ -5,3 +5,22 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+/* Table CSS */
+table{
+	margin: 1em auto 1em auto;
+}
+
+table caption{
+	font-variant: small-caps;
+}
+
+table td:last-child{
+	text-align: right;
+	font-variant-numeric: tabular-nums;
+}
+
+table tbody:last-of-type tr:nth-of-type(5) td:last-child{
+	text-decoration: underline;
+}
+/* Table CSS */
