@@ -23,6 +23,10 @@ table td:last-child{
 	text-align: right;
 	font-variant-numeric: tabular-nums;
 }
+
+table th{
+	font-weight: normal;
+}
 /* End table CSS */
 
 #preface footer p:first-of-type{
