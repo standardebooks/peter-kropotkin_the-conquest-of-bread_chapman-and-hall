@@ -6,7 +6,10 @@ footer{
 	text-align: right;
 }
 
-/* Begin table CSS */
+footer p:first-of-type{
+	font-variant: small-caps;
+}
+
 table{
 	margin: 1em auto;
 }
@@ -15,20 +18,11 @@ table caption{
 	font-variant: small-caps;
 }
 
-table tbody:last-of-type tr:nth-of-type(5) td:last-child{
-	border-bottom: 1px solid;
-}
-
 table td:last-child{
 	text-align: right;
 	font-variant-numeric: tabular-nums;
 }
 
-table th{
-	font-weight: normal;
-}
-/* End table CSS */
-
-#preface footer p:first-of-type{
-	font-variant: small-caps;
+table tfoot td:last-child{
+	border-top: 1px solid;
 }
