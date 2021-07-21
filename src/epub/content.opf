@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/peter-kropotkin/the-conquest-of-bread/chapman-and-hall</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-07-21T00:29:42Z</dc:date>
+		<meta property="dcterms:modified">2021-07-21T00:29:42Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,18 +36,17 @@
 		<meta property="term" refines="#subject-1">sh85029120</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85004812</meta>
-		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Peter Kropotkin describes the organization of an anarchist society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Conquest of Bread&lt;/i&gt; is a political treatise written by the anarcho-communist philosopher &lt;a href="https://standardebooks.org/ebooks/peter-kropotkin"&gt;Peter Kropotkin&lt;/a&gt;. Written after a split between anarchists and Marxists at the First International (a 19th-century association of left-wing radicals), &lt;i&gt;The Conquest of Bread&lt;/i&gt; advocates a path to a communist society distinct from &lt;a href="https://standardebooks.org/ebooks/karl-marx_friedrich-engels"&gt;Marx and Engles’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore"&gt;Communist Manifesto&lt;/a&gt;&lt;/i&gt;, rooted in the principles of mutual aid and voluntary cooperation.&lt;/p&gt;
-			&lt;p&gt;Since the time of its original publication in 1892, &lt;i&gt;The Conquest of Bread&lt;/i&gt; has immensely influenced both anarchist theory and anarchist praxis. As one of the first comprehensive works of anarcho-communist theory published for wide distribution, &lt;i&gt;The Conquest of Bread&lt;/i&gt; both popularized anarchism in general and encouraged a shift in anarchist thought from individualist anarchism to social anarchism. &lt;i&gt;The Conquest of Bread&lt;/i&gt; was an influential text among the Spanish anarchists in the 1930s Spanish Civil War, and the late anarchist theorist and anthopologist David Graeber cited the book as an inspiration for the Occupy movement of the early 2010s in his 2014 book &lt;i&gt;Debt: The First 5000 Years&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Since its original publication in 1892, &lt;i&gt;The Conquest of Bread&lt;/i&gt; has immensely influenced both anarchist theory and anarchist praxis. As one of the first comprehensive works of anarcho-communist theory published for wide distribution, it both popularized anarchism in general and encouraged a shift in anarchist thought from individualist anarchism to social anarchism. It was also an influential text among the Spanish anarchists in the Spanish Civil War of the 1930s, and the late anarchist theorist and anthopologist David Graeber cited the book as an inspiration for the Occupy movement of the early 2010s in his 2014 book &lt;i&gt;Debt: The First 5,000 Years&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/23428</dc:source>
 		<dc:source>https://archive.org/details/conquestofbread00kropuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">72733</meta>
+		<meta property="se:reading-ease.flesch">53.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Conquest_of_Bread</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/peter-kropotkin_the-conquest-of-bread_chapman-and-hall</meta>
 		<dc:creator id="author">Peter Kropotkin</dc:creator>
@@ -90,6 +89,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
