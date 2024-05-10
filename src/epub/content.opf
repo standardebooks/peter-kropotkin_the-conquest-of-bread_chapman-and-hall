@@ -44,7 +44,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/23428</dc:source>
 		<dc:source>https://archive.org/details/conquestofbread00kropuoft</dc:source>
 		<meta property="se:word-count">72735</meta>
-		<meta property="se:reading-ease.flesch">53.04</meta>
+		<meta property="se:reading-ease.flesch">53.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Conquest_of_Bread</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/peter-kropotkin_the-conquest-of-bread_chapman-and-hall</meta>
 		<dc:creator id="author">Peter Kropotkin</dc:creator>
