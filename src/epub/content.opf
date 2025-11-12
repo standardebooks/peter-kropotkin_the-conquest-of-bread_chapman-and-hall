@@ -54,15 +54,15 @@
 		<meta property="alternate-script" refines="#author">Пётр Алексе́евич Кропо́ткин</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Peter_Kropotkin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79033037</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator">Chapman and Hall</dc:contributor>
 		<meta property="file-as" refines="#translator">Chapman and Hall</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Chapman_and_Hall</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n81117573</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Luis Meléndez</dc:contributor>
 		<meta property="file-as" refines="#artist">Meléndez, Luis</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Luis Egidio Meléndez</meta>
