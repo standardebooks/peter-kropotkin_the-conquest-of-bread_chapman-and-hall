@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/peter-kropotkin/the-conquest-of-bread/chapman-and-hall</dc:identifier>
 		<dc:date>2021-07-21T00:29:42Z</dc:date>
@@ -37,11 +37,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85004812</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:description id="description">Peter Kropotkin describes the organization of an anarchist society.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Peter Kropotkin describes the organization of an anarchist society.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Conquest of Bread&lt;/i&gt; is a political treatise written by the anarcho-communist philosopher &lt;a href="https://standardebooks.org/ebooks/peter-kropotkin"&gt;Peter Kropotkin&lt;/a&gt;. Written after a split between anarchists and Marxists at the First International (a 19th-century association of left-wing radicals), &lt;i&gt;The Conquest of Bread&lt;/i&gt; advocates a path to a communist society distinct from &lt;a href="https://standardebooks.org/ebooks/karl-marx_friedrich-engels"&gt;Marx and Engels’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore"&gt;Communist Manifesto&lt;/a&gt;&lt;/i&gt;, rooted in the principles of mutual aid and voluntary cooperation.&lt;/p&gt;
 			&lt;p&gt;Since its original publication in 1892, &lt;i&gt;The Conquest of Bread&lt;/i&gt; has immensely influenced both anarchist theory and anarchist praxis. As one of the first comprehensive works of anarcho-communist theory published for wide distribution, it both popularized anarchism in general and encouraged a shift in anarchist thought from individualist anarchism to social anarchism. It was also an influential text among the Spanish anarchists in the Spanish Civil War of the 1930s, and the late anarchist theorist and anthropologist David Graeber cited the book as an inspiration for the Occupy movement of the early 2010s in his 2011 book &lt;i&gt;Debt: The First 5,000 Years&lt;/i&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/23428</dc:source>
 		<dc:source>https://archive.org/details/conquestofbread00kropuoft</dc:source>
