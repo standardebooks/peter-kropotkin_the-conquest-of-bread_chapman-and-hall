@@ -62,7 +62,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">Chapman and Hall</dc:contributor>
 		<meta property="file-as" refines="#translator">Chapman and Hall</meta>
-		<link href="https://en.wikipedia.org/wiki/Chapman_and_Hall" refines="#translator" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Chapman_%26_Hall" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81117573.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
